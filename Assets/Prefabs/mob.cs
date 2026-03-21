@@ -1,9 +1,10 @@
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class mob : MonoBehaviour
 {
 
-    public float attackDamage, attackSpeed, movementSpeed;
+    public float attackDamage, attackCooldown, movementSpeed;
     public bool alive;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
 
@@ -15,15 +16,32 @@ public class mob : MonoBehaviour
         playerTransform = player.transform;
         alive = true;
         attackDamage = 0.75f;
-        attackSpeed = 1;
+        attackCooldown = 1;
         movementSpeed = player.baseMovementSpeed * 0.6f;
     }
 
     // Update is called once per frame
     void Update()
     {
+
         Vector2 direction = (playerTransform.position - transform.position).normalized;
-        transform.Translate(direction * movementSpeed * Time.deltaTime);
+
+        float distance = Vector2.Distance(playerTransform.position, transform.position);
+
+        if (attackCooldown > 0f)
+        {
+            attackCooldown -= Time.deltaTime;
+        }
+
+        // movement of the mob towards the player
+        
+            transform.Translate(direction * movementSpeed * Time.deltaTime);
+        if (attackCooldown <= 0f) // if in range, attacks
+        {
+            // deal damage to player
+            Debug.Log("Player hit for " + attackDamage);
+            attackCooldown = 1f;
+        }
 
     }
 }
