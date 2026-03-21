@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 7704304976123056985}
   - component: {fileID: 3843341554843167939}
   - component: {fileID: 5598146754071826980}
+  - component: {fileID: 4563968976549137640}
   m_Layer: 0
   m_Name: projectile1
   m_TagString: Untagged
@@ -29,7 +30,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -5.2591, y: -3.1011, z: 0}
-  m_LocalScale: {x: 0.44378975, y: 0.46909237, z: 1}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -156,3 +157,15 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
   m_Radius: 1.79
+--- !u!114 &4563968976549137640
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3719464699207378572}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b973cad1f6001431dbbc59154509f522, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
