@@ -8,5 +8,14 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/AdditiveMAIN.unity
+    guid: 5643b1f4594e2484aa9fc796475cc081
+  - enabled: 1
+    path: Assets/Scenes/AdditiveLeft.unity
+    guid: 777b803b9e960a94ba6723f3a8e31afe
+  - enabled: 1
+    path: Assets/Scenes/AdditiveRight.unity
+    guid: 846c2650ba8a8624aa2562dbc7652234
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
