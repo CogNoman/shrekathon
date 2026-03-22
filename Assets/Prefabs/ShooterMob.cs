@@ -85,5 +85,6 @@ public class ShooterMob : MonoBehaviour
 
         GameObject projectile = Instantiate(prefabToSpawn, transform.position, Quaternion.identity);
         projectile.GetComponent<Rigidbody2D>().linearVelocity = direction * projectileSpeed;
+        projectile.transform.rotation = Quaternion.FromToRotation(Vector2.left, direction);
     }
 }

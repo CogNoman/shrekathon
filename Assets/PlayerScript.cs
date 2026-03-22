@@ -9,7 +9,8 @@ public class PlayerScript : MonoBehaviour
     public bool armored;
     public bool alive;
     public bool enraged;
-
+    public AudioSource goodSound;
+    public AudioSource badSound;
     public GameObject bloodSplat;
 
     private Animator anim;
@@ -103,6 +104,7 @@ public class PlayerScript : MonoBehaviour
             if (InventoryManager.Instance != null)
             {
                 InventoryManager.Instance.AddRandomItem();
+                goodSound.Play();
                 Debug.Log("Inventory Item should be added now?");
             }
             else
@@ -117,7 +119,7 @@ public class PlayerScript : MonoBehaviour
         {
             float damage = other.GetComponentInParent<EnemyProjectile>().damage;
             Debug.Log("Hit by " + other.gameObject + " for " + damage);
-
+            badSound.Play();
             // You can handle damage here later 
             Destroy(other.gameObject); // optional
         }
