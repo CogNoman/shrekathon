@@ -14,4 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::InventoryItemData
   itemName: top2
   inventoryIcon: {fileID: -1911424328069057932, guid: 25eefe011bc870444857773f773244bb, type: 3}
+  bigSprite: {fileID: -7837474389819230006, guid: f6bb78a388303544f887835119bf16cf, type: 3}
   projectileIcon: {fileID: 7062469444080745539, guid: d427c36a1350e1e4491e1564f363367f, type: 3}

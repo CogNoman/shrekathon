@@ -14,4 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::InventoryItemData
   itemName: earring2
   inventoryIcon: {fileID: -1911424328069057932, guid: 25eefe011bc870444857773f773244bb, type: 3}
+  bigSprite: {fileID: 4185301821405940330, guid: 924f771ae62fe684390515e1946a0a63, type: 3}
   projectileIcon: {fileID: 7062469444080745539, guid: d427c36a1350e1e4491e1564f363367f, type: 3}

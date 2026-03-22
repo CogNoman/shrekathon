@@ -14,4 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::InventoryItemData
   itemName: blush1
   inventoryIcon: {fileID: -1911424328069057932, guid: 25eefe011bc870444857773f773244bb, type: 3}
+  bigSprite: {fileID: -5915250905626923238, guid: 159b2c4b5cee32c40ba0cbaa3c9135cc, type: 3}
   projectileIcon: {fileID: 7062469444080745539, guid: d427c36a1350e1e4491e1564f363367f, type: 3}
