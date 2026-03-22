@@ -156,6 +156,8 @@ MonoBehaviour:
   movementSpeed: 0
   armor: 0
   rageMeter: 0
+  attackRadius: 2
+  spinCooldown: 0
   armored: 0
   alive: 1
   enraged: 0
@@ -348,6 +350,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: TomatoThrower (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 5068686469429066336, guid: 0c780720cabef4496bb8ba8124b26cdd, type: 3}
+      propertyPath: badProjectile
+      value: 
+      objectReference: {fileID: 7939840846956231431, guid: 90f060624b681480eaa57a5f1c3ef8ae, type: 3}
+    - target: {fileID: 5068686469429066336, guid: 0c780720cabef4496bb8ba8124b26cdd, type: 3}
+      propertyPath: goodProjectile
+      value: 
+      objectReference: {fileID: 7939840846956231431, guid: 89a3fa5ea1c4e18458c9634affcfd4db, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -405,6 +415,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: TomatoThrower (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 5068686469429066336, guid: 0c780720cabef4496bb8ba8124b26cdd, type: 3}
+      propertyPath: badProjectile
+      value: 
+      objectReference: {fileID: 7939840846956231431, guid: 90f060624b681480eaa57a5f1c3ef8ae, type: 3}
+    - target: {fileID: 5068686469429066336, guid: 0c780720cabef4496bb8ba8124b26cdd, type: 3}
+      propertyPath: goodProjectile
+      value: 
+      objectReference: {fileID: 7939840846956231431, guid: 89a3fa5ea1c4e18458c9634affcfd4db, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -599,6 +617,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: TomatoThrower
       objectReference: {fileID: 0}
+    - target: {fileID: 5068686469429066336, guid: 0c780720cabef4496bb8ba8124b26cdd, type: 3}
+      propertyPath: badProjectile
+      value: 
+      objectReference: {fileID: 7939840846956231431, guid: 90f060624b681480eaa57a5f1c3ef8ae, type: 3}
+    - target: {fileID: 5068686469429066336, guid: 0c780720cabef4496bb8ba8124b26cdd, type: 3}
+      propertyPath: goodProjectile
+      value: 
+      objectReference: {fileID: 7939840846956231431, guid: 89a3fa5ea1c4e18458c9634affcfd4db, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

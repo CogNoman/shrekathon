@@ -2,7 +2,9 @@ using UnityEngine;
 
 public class ShooterMob : MonoBehaviour
 {
-    public GameObject Tomato;
+    // public GameObject Tomato;
+    public GameObject goodProjectile;  // good projectile added
+    public GameObject badProjectile;  // bad projectile added
     public float projectileSpeed = 6f;
     public float fireRate = 1f;
 
@@ -32,8 +34,22 @@ public class ShooterMob : MonoBehaviour
 
     void Shoot()
     {
+        // Vector2 direction = (playerTransform.position - transform.position).normalized;
+        // GameObject tomato = Instantiate(Tomato, transform.position, Quaternion.identity);
+        // tomato.GetComponent<Rigidbody2D>().linearVelocity = direction * projectileSpeed;
+
         Vector2 direction = (playerTransform.position - transform.position).normalized;
-        GameObject tomato = Instantiate(Tomato, transform.position, Quaternion.identity);
-        tomato.GetComponent<Rigidbody2D>().linearVelocity = direction * projectileSpeed;
+        GameObject prefabToSpawn;   // 80% chance bad projectile, 20% chance good projectile
+        if (Random.value < 0.8f)
+        {
+            prefabToSpawn = badProjectile;
+        }
+        else
+        {
+            prefabToSpawn = goodProjectile;
+        }
+
+        GameObject projectile = Instantiate(prefabToSpawn, transform.position, Quaternion.identity);
+        projectile.GetComponent<Rigidbody2D>().linearVelocity = direction * projectileSpeed;
     }
 }

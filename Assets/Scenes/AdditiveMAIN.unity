@@ -552,7 +552,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4734a4c2376d5b4489f56888d93ab59d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InventoryManager
-  allPossibleItems: []
+  allPossibleItems:
+  - {fileID: 11400000, guid: f56e0fd5525669b4e9295db5c45ca5e5, type: 2}
+  - {fileID: 11400000, guid: 72c572cdba95a8d4f805d869ac50deda, type: 2}
+  - {fileID: 11400000, guid: 9ae728d23f0c8534d9df423278584804, type: 2}
+  - {fileID: 11400000, guid: bfec5ce84472064438ffab848c541580, type: 2}
+  - {fileID: 11400000, guid: 07ee92946fff50e498aaeb7e2dd2034b, type: 2}
+  - {fileID: 11400000, guid: db55fb149c2e78343a25faa4bb73666b, type: 2}
+  - {fileID: 11400000, guid: 7b6baa56f23850f409b5ddf23a1c40ed, type: 2}
+  - {fileID: 11400000, guid: 4069911a69365ad4f9447a2eb9725579, type: 2}
+  - {fileID: 11400000, guid: ec4c54e75b1c9114783804a7a89a8378, type: 2}
+  - {fileID: 11400000, guid: 7e6d3b80ed3b7e74c8dcc4bf0bf18425, type: 2}
+  - {fileID: 11400000, guid: 3ac4530ae54b6c142a93072df4eafe89, type: 2}
+  - {fileID: 11400000, guid: 41832c2c4e27c0147af9263721243f5c, type: 2}
+  - {fileID: 11400000, guid: 6f7ee3aeecd606441850737c93071edf, type: 2}
+  - {fileID: 11400000, guid: 20026a73217ddeb4882f6dea28b4cb3e, type: 2}
+  - {fileID: 11400000, guid: 90488937da615c1469eee2dac4fc0fab, type: 2}
+  - {fileID: 11400000, guid: a093b55aae3f008409ec7e6ffe1aafb2, type: 2}
   collectedItems: []
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
