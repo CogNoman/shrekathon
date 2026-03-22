@@ -2,7 +2,8 @@ using UnityEngine;
 
 public class throwerSpawner : MonoBehaviour
 {
-    public GameObject mob;
+    public GameObject tomatoMobSlot;
+    public GameObject archerMobSlot;
     public float minSpawnTime;
     public float maxSpawnTime;
     private float gameTime = 0f;
@@ -10,7 +11,8 @@ public class throwerSpawner : MonoBehaviour
     void SpawnMob()
     {
         Vector2 spawnPoint = GetRandomWallPosition();
-        Instantiate(mob, spawnPoint, Quaternion.identity);
+        GameObject throwerToSpawn = Random.value < 0.5f ? tomatoMobSlot : archerMobSlot;
+        Instantiate(throwerToSpawn, spawnPoint, Quaternion.identity);
     }
 
     Vector2 GetRandomWallPosition()

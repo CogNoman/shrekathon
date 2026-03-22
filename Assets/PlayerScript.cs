@@ -113,11 +113,12 @@ public class PlayerScript : MonoBehaviour
             Destroy(other.gameObject); // remove projectile
         }
 
-        else if (other.CompareTag("BadProjectile"))
+       else if (other.CompareTag("BadProjectile"))
         {
-            Debug.Log("Hit by BAD projectile");
+            float damage = other.GetComponentInParent<EnemyProjectile>().damage;
+            Debug.Log("Hit by " + other.gameObject + " for " + damage);
 
-            // You can handle damage here later
+            // You can handle damage here later 
             Destroy(other.gameObject); // optional
         }
     }

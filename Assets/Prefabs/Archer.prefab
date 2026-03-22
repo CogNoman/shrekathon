@@ -170,7 +170,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   goodProjectile: {fileID: 7939840846956231431, guid: 89a3fa5ea1c4e18458c9634affcfd4db, type: 3}
-  badProjectile: {fileID: 7939840846956231431, guid: 90f060624b681480eaa57a5f1c3ef8ae, type: 3}
-  projectileSpeed: 4
+  badProjectile: {fileID: 7939840846956231431, guid: 328be30f76d8445ff9426311b930d6f3, type: 3}
+  projectileSpeed: 5
   fireRate: 1.6
   scrollSpeed: 2

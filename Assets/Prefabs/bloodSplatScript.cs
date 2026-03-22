@@ -3,7 +3,7 @@ using UnityEngine;
 public class bloodSplatScript : MonoBehaviour
 {
 
-    public AudioClip splatSound; // drag and drop the sound to it
+    // public AudioClip splatSound; // drag and drop the sound to it
 
     public float scrollSpeed = 2f;
 
@@ -11,7 +11,7 @@ public class bloodSplatScript : MonoBehaviour
     void Start()
     {
         // plays splat sound when the splat appears
-        AudioSource.PlayClipAtPoint(splatSound, transform.position);
+       // AudioSource.PlayClipAtPoint(splatSound, transform.position);
     }
 
     // Update is called once per frame

@@ -44,7 +44,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39861553d4689473db29c2225be8cdc2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  mob: {fileID: 1404158517913019143, guid: 0c780720cabef4496bb8ba8124b26cdd, type: 3}
+  tomatoMobSlot: {fileID: 1404158517913019143, guid: 0c780720cabef4496bb8ba8124b26cdd, type: 3}
+  archerMobSlot: {fileID: 1404158517913019143, guid: b930875d10730428e99a3e5bca5a23a5, type: 3}
   minSpawnTime: 2
   maxSpawnTime: 3
   spawnCooldown: 0
