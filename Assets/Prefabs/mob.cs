@@ -34,12 +34,12 @@ public class mob : MonoBehaviour
         }
 
         // movement of the mob towards the player
-        
+
             transform.Translate(direction * movementSpeed * Time.deltaTime);
         if (attackCooldown <= 0f) // if in range, attacks
         {
             // deal damage to player
-            Debug.Log("Player hit for " + attackDamage);
+            Debug.Log("Player hit for melee damage " + attackDamage);
             attackCooldown = 1f;
         }
 

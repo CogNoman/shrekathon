@@ -14,7 +14,7 @@ public class EnemyProjectile : MonoBehaviour
             else if (gameObject.CompareTag("Pitchfork")) damage = 1f;
             else damage = 0f;
             
-            Debug.Log("Player hit for " + damage);
+            Debug.Log("Player hit for projectile dmg " + damage);
             Destroy(gameObject);
         }
     }
