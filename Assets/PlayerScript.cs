@@ -18,7 +18,7 @@ public class PlayerScript : MonoBehaviour
         alive = true;
         enraged = false;
         armored = false;
-        baseMovementSpeed = 8f;
+        baseMovementSpeed = 5f;
         movementSpeedModifier = 1f;
     }
 

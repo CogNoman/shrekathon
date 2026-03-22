@@ -151,7 +151,7 @@ CircleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
@@ -169,6 +169,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c8ef9818dc7f042ffbb74cfd7329b830, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  Tomato: {fileID: 7939840846956231431, guid: 90f060624b681480eaa57a5f1c3ef8ae, type: 3}
-  projectileSpeed: 8
+  goodProjectile: {fileID: 7939840846956231431, guid: 89a3fa5ea1c4e18458c9634affcfd4db, type: 3}
+  badProjectile: {fileID: 7939840846956231431, guid: 90f060624b681480eaa57a5f1c3ef8ae, type: 3}
+  projectileSpeed: 6
   fireRate: 1.2
+  scrollSpeed: 2

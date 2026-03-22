@@ -5,21 +5,41 @@ public class ShooterMob : MonoBehaviour
     // public GameObject Tomato;
     public GameObject goodProjectile;  // good projectile added
     public GameObject badProjectile;  // bad projectile added
-    public float projectileSpeed = 6f;
+    public float projectileSpeed;
     public float fireRate = 1f;
+
+    public float scrollSpeed = 2f;
 
     private float fireCooldown = 0f;
     private Transform playerTransform;
 
     void Start()
     {
-        PlayerScript player = FindAnyObjectByType<PlayerScript>();
-        playerTransform = player.transform;
+
     }
 
-
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag("BottomBorder"))
+        {
+            Destroy(gameObject);
+        }
+    }
     void Update()
     {
+        if (playerTransform == null)
+        {
+            
+            PlayerScript player = FindAnyObjectByType<PlayerScript>();
+
+            if (player != null) {
+                playerTransform = player.transform;
+            }
+
+            return;
+
+        }
+
         if (fireCooldown > 0f)
         {
             fireCooldown -= Time.deltaTime;
@@ -30,6 +50,10 @@ public class ShooterMob : MonoBehaviour
             Shoot();
             fireCooldown = fireRate;
         }
+
+        // makes the shooter mobs move downwards
+         transform.position = new Vector2(transform.position.x, transform.position.y - scrollSpeed * Time.deltaTime);
+
     }
 
     void Shoot()
