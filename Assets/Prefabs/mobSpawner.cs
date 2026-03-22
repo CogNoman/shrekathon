@@ -4,9 +4,9 @@ public class mobSpawner : MonoBehaviour
 {
 
     public GameObject mob;
-    public float minSpawnTime = 2f;
-    public float maxSpawnTime = 3f;
-
+    public float minSpawnTime;
+    public float maxSpawnTime;
+    private float gameTime = 0f;
     public float spawnCooldown;
     void SpawnMob()
     {
@@ -40,6 +40,12 @@ public class mobSpawner : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        gameTime += Time.deltaTime;
+
+        // as time advances, the mobs will keep spawning faster
+        minSpawnTime = Mathf.Max(0.8f, 3f - (0.06f * gameTime));
+        maxSpawnTime = Mathf.Max(1.2f, 4f - (0.06f * gameTime));
+
         spawnCooldown -= Time.deltaTime;
 
         if (spawnCooldown <= 0f)
