@@ -335,7 +335,7 @@ SpriteRenderer:
   m_SortingLayer: -2
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 2313873738852057464, guid: 98ea85c3166d3264a8eeab5cb6ded9eb, type: 3}
+  m_Sprite: {fileID: -4423696549740066627, guid: fcfecb72157824e29bc0af84a9be1626, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1419,7 +1419,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3b86a65c63fb94bbc82e7eb2cfbecde5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  scrollSpeed: 2
+  scrollSpeed: 1.2
 --- !u!1001 &1610298981
 PrefabInstance:
   m_ObjectHideFlags: 0
