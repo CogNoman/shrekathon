@@ -1,6 +1,6 @@
 using System;
 using System.Security.Cryptography;
-using System.Threading.Tasks.Dataflow;
+// using System.Threading.Tasks.Dataflow;
 using UnityEngine;
 
 public class PlayerScript : MonoBehaviour
@@ -32,25 +32,25 @@ public class PlayerScript : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.Space) && spinCooldown <= 0)
         {
-            SpinAttack();
+           // SpinAttack();
             spinCooldown = 4f;
         }
 
-        void SpinAttack()
-        {
-            Collider2D[] hits = Physics2D.OverlapCircleAll(transform.position, attackRadius);
+        // void SpinAttack()
+        // {
+        //     Collider2D[] hits = Physics2D.OverlapCircleAll(transform.position, attackRadius);
 
-            foreach (Collider2D hits in hits)
-            {
-                if (hits.CompareTag("Enemy"))
-                {
-                    // placeholder effect, should change texture. and make them immobile
-                    // i stopped here, resume! also removes their hitbox so things can pass through.
-                    // make sure that when they die, they have a chance to drop equipment!
-                    hits.alive = false;
-                }
-            }
-        }
+        //     foreach (Collider2D hits in hits)
+        //     {
+        //         if (hits.CompareTag("Enemy"))
+        //         {
+        //             // placeholder effect, should change texture. and make them immobile
+        //             // i stopped here, resume! also removes their hitbox so things can pass through.
+        //             // make sure that when they die, they have a chance to drop equipment!
+        //             hits.alive = false;
+        //         }
+        //     }
+        // }
 
         if (armor <= 0)
         {
