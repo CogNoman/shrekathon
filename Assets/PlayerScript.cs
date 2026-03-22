@@ -69,4 +69,32 @@ public class PlayerScript : MonoBehaviour
         // movement
         transform.Translate(new Vector2(moveX, moveY).normalized * movementSpeed * Time.deltaTime);
     }
+
+        // This method handles projectile collisions
+        void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag("GoodProjectile"))
+        {
+            Debug.Log("Hit by GOOD projectile");
+
+            if (InventoryManager.Instance != null)
+            {
+                InventoryManager.Instance.AddRandomItem();
+            }
+            else
+            {
+                Debug.LogWarning("InventoryManager not found (did you run the MAIN scene (which contains the Inventory Manager) or only the playerScene?)");
+            }
+
+            Destroy(other.gameObject); // remove projectile
+        }
+
+        else if (other.CompareTag("BadProjectile"))
+        {
+            Debug.Log("Hit by BAD projectile");
+
+            // You can handle damage here later
+            Destroy(other.gameObject); // optional
+        }
+    }
 }
