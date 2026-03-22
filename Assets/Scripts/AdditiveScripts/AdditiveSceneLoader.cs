@@ -10,7 +10,7 @@ public class AdditiveSceneLoader : MonoBehaviour
 
     void LoadScenes()
     {
-        SceneManager.LoadScene("AdditiveRight", LoadSceneMode.Additive);
+        SceneManager.LoadScene("makeupScene", LoadSceneMode.Additive);
         SceneManager.LoadScene("playerScene", LoadSceneMode.Additive);
     }
 }

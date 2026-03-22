@@ -6,6 +6,6 @@ public class InventoryItemData : ScriptableObject
 {
     public string itemName;
     public Sprite inventoryIcon;
-
+    public Sprite bigSprite;
     public Sprite projectileIcon;
 }

@@ -80,6 +80,7 @@ public class PlayerScript : MonoBehaviour
             if (InventoryManager.Instance != null)
             {
                 InventoryManager.Instance.AddRandomItem();
+                Debug.Log("Inventory Item should be added now?");
             }
             else
             {
