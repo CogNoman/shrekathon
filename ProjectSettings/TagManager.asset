@@ -6,6 +6,7 @@ TagManager:
   tags:
   - BadProjectile
   - GoodProjectile
+  - BottomBorder
   layers:
   - Default
   - TransparentFX
