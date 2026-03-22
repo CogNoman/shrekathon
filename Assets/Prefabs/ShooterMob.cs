@@ -6,7 +6,7 @@ public class ShooterMob : MonoBehaviour
     public GameObject goodProjectile;  // good projectile added
     public GameObject badProjectile;  // bad projectile added
     public float projectileSpeed;
-    public float fireRate = 1f;
+    public float fireRate;
 
     public float scrollSpeed = 2f;
 
