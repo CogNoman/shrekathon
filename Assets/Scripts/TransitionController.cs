@@ -22,7 +22,7 @@ public class TransitionController : MonoBehaviour
 
     public void Credits()
     {
-        // Open credits
+        SceneManager.LoadScene("Credits");
     }
 
     public void LoadNextScene()
@@ -36,7 +36,7 @@ public class TransitionController : MonoBehaviour
         SceneManager.LoadScene("AdditiveMAIN");
     }
 
-    public void GameOverExit() 
+    public void ExitToMain() 
     {
         // Takes user back to main menu where
         SceneManager.LoadScene("MainMenu");
