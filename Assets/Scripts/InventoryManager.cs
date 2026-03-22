@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -8,6 +9,8 @@ public class InventoryManager : MonoBehaviour
     public List<InventoryItemData> allPossibleItems = new List<InventoryItemData>();
     public List<InventoryItemData> collectedItems = new List<InventoryItemData>();
     public List<InventoryItemData> equippedItems = new List<InventoryItemData>();
+
+    public event Action<InventoryItemData> OnItemAdded; // Action to trigger spawning sprites
 
     void Awake()
     {
@@ -39,9 +42,11 @@ public class InventoryManager : MonoBehaviour
             return;
         }
 
-        InventoryItemData chosen = available[Random.Range(0, available.Count)];
+        InventoryItemData chosen = available[UnityEngine.Random.Range(0, available.Count)];
         collectedItems.Add(chosen);
 
         Debug.Log("Collected: " + chosen.itemName);
+
+        OnItemAdded?.Invoke(chosen); // Event being fired to trigger makeup sprite spawning
     }
 }
