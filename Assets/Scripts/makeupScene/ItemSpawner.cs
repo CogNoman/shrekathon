@@ -32,6 +32,9 @@ public class ItemSpawner : MonoBehaviour
         var sr = obj.AddComponent<SpriteRenderer>();
         sr.sprite = item.bigSprite;
 
+        obj.AddComponent<BoxCollider2D>(); 
+        obj.AddComponent<DraggableItem>(); 
+
         obj.transform.position = randomPos;
     }
 }
