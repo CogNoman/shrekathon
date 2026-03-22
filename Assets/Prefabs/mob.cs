@@ -6,12 +6,16 @@ public class mob : MonoBehaviour
 
     public float attackDamage, attackCooldown, movementSpeed;
     public bool alive;
+
+    private SpriteRenderer sr;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
 
     private Transform playerTransform;
 
     void Start()
     {
+        sr = GetComponent<SpriteRenderer>();
+        
         PlayerScript player = FindAnyObjectByType<PlayerScript>();
         playerTransform = player.transform;
         alive = true;
@@ -45,7 +49,7 @@ public class mob : MonoBehaviour
 
         // movement of the mob towards the player
 
-            transform.Translate(direction * movementSpeed * Time.deltaTime);
+        transform.Translate(direction * movementSpeed * Time.deltaTime);
         if (attackCooldown <= 0f) // if in range, attacks
         {
             // deal damage to player
@@ -53,5 +57,11 @@ public class mob : MonoBehaviour
             attackCooldown = 1f;
         }
 
+
+        if (transform.position.x < playerTransform.position.x) {
+            sr.flipX = true;
+        } else {
+            sr.flipX = false;
+        }
     }
 }

@@ -7,6 +7,8 @@ public class ShooterMob : MonoBehaviour
     public GameObject badProjectile;  // bad projectile added
     public float projectileSpeed;
     public float fireRate;
+    private SpriteRenderer sr;
+
 
     public float scrollSpeed = 2f;
 
@@ -15,7 +17,7 @@ public class ShooterMob : MonoBehaviour
 
     void Start()
     {
-
+        sr = GetComponent<SpriteRenderer>();
     }
 
     void OnTriggerEnter2D(Collider2D other)
@@ -30,10 +32,11 @@ public class ShooterMob : MonoBehaviour
     {
         if (playerTransform == null)
         {
-            
+
             PlayerScript player = FindAnyObjectByType<PlayerScript>();
 
-            if (player != null) {
+            if (player != null)
+            {
                 playerTransform = player.transform;
             }
 
@@ -53,8 +56,14 @@ public class ShooterMob : MonoBehaviour
         }
 
         // makes the shooter mobs move downwards
-         transform.position = new Vector2(transform.position.x, transform.position.y - scrollSpeed * Time.deltaTime);
+        transform.position = new Vector2(transform.position.x, transform.position.y - scrollSpeed * Time.deltaTime);
 
+
+        if (transform.position.x < playerTransform.position.x) {
+            sr.flipX = true;
+        } else {
+            sr.flipX = false;
+        }
     }
 
     void Shoot()
