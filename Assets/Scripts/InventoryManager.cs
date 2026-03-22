@@ -8,9 +8,10 @@ public class InventoryManager : MonoBehaviour
 
     public List<InventoryItemData> allPossibleItems = new List<InventoryItemData>();
     public List<InventoryItemData> collectedItems = new List<InventoryItemData>();
-    public List<InventoryItemData> equippedItems = new List<InventoryItemData>();
+    //public List<InventoryItemData> equippedItems = new List<InventoryItemData>();
 
     public event Action<InventoryItemData> OnItemAdded; // Action to trigger spawning sprites
+    public event Action<InventoryItemData> OnItemRemoved; // Action to trigger spawning sprites
 
     void Awake()
     {
@@ -48,5 +49,23 @@ public class InventoryManager : MonoBehaviour
         Debug.Log("Collected: " + chosen.itemName);
 
         OnItemAdded?.Invoke(chosen); // Event being fired to trigger makeup sprite spawning
+    }
+
+    public void RemoveRandomItem()
+    {
+        if (collectedItems.Count == 0)
+        {
+            Debug.Log("No items to remove!");
+            return;
+        }
+
+        int index = UnityEngine.Random.Range(0, collectedItems.Count);
+        InventoryItemData removed = collectedItems[index];
+
+        collectedItems.RemoveAt(index);
+
+        Debug.Log("Removed: " + removed.itemName);
+
+        OnItemRemoved?.Invoke(removed);
     }
 }

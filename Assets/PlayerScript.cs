@@ -119,7 +119,18 @@ public class PlayerScript : MonoBehaviour
         {
             float damage = other.GetComponentInParent<EnemyProjectile>().damage;
             Debug.Log("Hit by " + other.gameObject + " for " + damage);
-            badSound.Play();
+
+            if (InventoryManager.Instance != null)
+            {
+                InventoryManager.Instance.RemoveRandomItem();
+                badSound.Play();
+                Debug.Log("Inventory Item should be removed now?");
+            }
+            else
+            {
+                Debug.LogWarning("InventoryManager not found (did you run the MAIN scene (which contains the Inventory Manager) or only the playerScene?)");
+            }
+
             // You can handle damage here later 
             Destroy(other.gameObject); // optional
         }
