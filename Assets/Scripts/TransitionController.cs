@@ -6,13 +6,11 @@ public class TransitionController : MonoBehaviour
 {
     public void StartGame()
     {
-        //Debug.Log("Starting the game...");
         SceneManager.LoadScene("Prelude1");
     }
 
     public void ExitGame()
     {
-        //Debug.Log("Closing game...");
         Application.Quit();
 
     }
