@@ -44,5 +44,14 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/makeupScene.unity
     guid: d1f2730e4941f2a4da6a659b31fd5198
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: da8f77ccbeb24ba428c37aa8b59b320a
+  - enabled: 1
+    path: Assets/Scenes/Credits2.unity
+    guid: c45b3993c99be6c4ea320334227557b6
+  - enabled: 1
+    path: Assets/Scenes/BlackScreen.unity
+    guid: 65489381d56e9f14eaf5b11bdba3ad45
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
