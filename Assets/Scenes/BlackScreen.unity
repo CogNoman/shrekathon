@@ -518,7 +518,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2d0c6cff93a03b741bd2abf6ae2bcd20, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::AutoSceneChanger
-  delayBeforeLoading: 5
+  delayBeforeLoading: 2
   nextSceneName: MainMenu
 --- !u!1 &1806807032
 GameObject:
