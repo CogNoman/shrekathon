@@ -173,4 +173,4 @@ MonoBehaviour:
   badProjectile: {fileID: 7939840846956231431, guid: 328be30f76d8445ff9426311b930d6f3, type: 3}
   projectileSpeed: 5
   fireRate: 1.6
-  scrollSpeed: 2
+  scrollSpeed: 1.2

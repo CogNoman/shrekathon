@@ -106,8 +106,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c1317359e30f6d14da75bbe05212eacf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  splatSound: {fileID: 0}
-  scrollSpeed: 2
+  scrollSpeed: 1.2
 --- !u!58 &-3763939842792417615
 CircleCollider2D:
   m_ObjectHideFlags: 0
