@@ -1,0 +1,2951 @@
+fileFormatVersion: 2
+guid: 052d4208655d22e448d456a1106aa61f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3057512752771243208
+    second: Blood splat 2_0
+  - first:
+      213: -856920449722243245
+    second: Blood splat 2_1
+  - first:
+      213: -4272637792477131623
+    second: Blood splat 2_2
+  - first:
+      213: 1339225005247886350
+    second: Blood splat 2_3
+  - first:
+      213: -3259850151264110071
+    second: Blood splat 2_4
+  - first:
+      213: 2818366045086976926
+    second: Blood splat 2_5
+  - first:
+      213: 5888880237837197382
+    second: Blood splat 2_6
+  - first:
+      213: 1636561868448654626
+    second: Blood splat 2_7
+  - first:
+      213: -6195704652172313323
+    second: Blood splat 2_8
+  - first:
+      213: 582839038790090208
+    second: Blood splat 2_9
+  - first:
+      213: 5858944012335888746
+    second: Blood splat 2_10
+  - first:
+      213: -108366859033413103
+    second: Blood splat 2_11
+  - first:
+      213: 4841146137066368826
+    second: Blood splat 2_12
+  - first:
+      213: -1538378001349117855
+    second: Blood splat 2_13
+  - first:
+      213: -3398764968068515232
+    second: Blood splat 2_14
+  - first:
+      213: 7391861196793258191
+    second: Blood splat 2_15
+  - first:
+      213: 6209358259624147872
+    second: Blood splat 2_16
+  - first:
+      213: -1259044795542545704
+    second: Blood splat 2_17
+  - first:
+      213: 5403223817244251688
+    second: Blood splat 2_18
+  - first:
+      213: 3368796521199558598
+    second: Blood splat 2_19
+  - first:
+      213: 5788996512700114643
+    second: Blood splat 2_20
+  - first:
+      213: 7937038778513641312
+    second: Blood splat 2_21
+  - first:
+      213: 3908384132169823262
+    second: Blood splat 2_22
+  - first:
+      213: -2849567534901441465
+    second: Blood splat 2_23
+  - first:
+      213: -6887923313648086289
+    second: Blood splat 2_24
+  - first:
+      213: 7228395288510357049
+    second: Blood splat 2_25
+  - first:
+      213: 7504022056165695412
+    second: Blood splat 2_26
+  - first:
+      213: 2153303433752980009
+    second: Blood splat 2_27
+  - first:
+      213: -845577320180821170
+    second: Blood splat 2_28
+  - first:
+      213: -2310287474242049579
+    second: Blood splat 2_29
+  - first:
+      213: 8793425683018863109
+    second: Blood splat 2_30
+  - first:
+      213: -423154127664216634
+    second: Blood splat 2_31
+  - first:
+      213: -3846440594300366682
+    second: Blood splat 2_32
+  - first:
+      213: -1419433848811445417
+    second: Blood splat 2_33
+  - first:
+      213: -2217983814530543464
+    second: Blood splat 2_34
+  - first:
+      213: -8166581571769607677
+    second: Blood splat 2_35
+  - first:
+      213: 2283886884799503814
+    second: Blood splat 2_36
+  - first:
+      213: -3524627399203112838
+    second: Blood splat 2_37
+  - first:
+      213: -6690274685028779311
+    second: Blood splat 2_38
+  - first:
+      213: -401071647591557856
+    second: Blood splat 2_39
+  - first:
+      213: 8835912063086646691
+    second: Blood splat 2_40
+  - first:
+      213: 4855278360554821498
+    second: Blood splat 2_41
+  - first:
+      213: -94228433825433358
+    second: Blood splat 2_42
+  - first:
+      213: 4651586545015267920
+    second: Blood splat 2_43
+  - first:
+      213: 7718455130937039279
+    second: Blood splat 2_44
+  - first:
+      213: 6604192437236871010
+    second: Blood splat 2_45
+  - first:
+      213: -618467686793122743
+    second: Blood splat 2_46
+  - first:
+      213: 7415630682632981281
+    second: Blood splat 2_47
+  - first:
+      213: -4739737448067130594
+    second: Blood splat 2_48
+  - first:
+      213: 8335592339588854133
+    second: Blood splat 2_49
+  - first:
+      213: 4552330343629597126
+    second: Blood splat 2_50
+  - first:
+      213: -1303890754906753938
+    second: Blood splat 2_51
+  - first:
+      213: 7186156762283846034
+    second: Blood splat 2_52
+  - first:
+      213: -5953406328682587067
+    second: Blood splat 2_53
+  - first:
+      213: -4268337142474797623
+    second: Blood splat 2_54
+  - first:
+      213: 2793453161195826644
+    second: Blood splat 2_55
+  - first:
+      213: 5800467828725291254
+    second: Blood splat 2_56
+  - first:
+      213: 932744120945168538
+    second: Blood splat 2_57
+  - first:
+      213: -386830682471558221
+    second: Blood splat 2_58
+  - first:
+      213: 5894757032018635193
+    second: Blood splat 2_59
+  - first:
+      213: -456840727125869497
+    second: Blood splat 2_60
+  - first:
+      213: 6013467667695384953
+    second: Blood splat 2_61
+  - first:
+      213: -9008270696360663540
+    second: Blood splat 2_62
+  - first:
+      213: -8918196851026117142
+    second: Blood splat 2_63
+  - first:
+      213: 2856697311139802843
+    second: Blood splat 2_64
+  - first:
+      213: 7689891783319465502
+    second: Blood splat 2_65
+  - first:
+      213: 4418810967115697861
+    second: Blood splat 2_66
+  - first:
+      213: 8766938983837985545
+    second: Blood splat 2_67
+  - first:
+      213: -2300010011731706163
+    second: Blood splat 2_68
+  - first:
+      213: -1740914678928693302
+    second: Blood splat 2_69
+  - first:
+      213: -5343246329265259998
+    second: Blood splat 2_70
+  - first:
+      213: -8279329071760189055
+    second: Blood splat 2_71
+  - first:
+      213: -36094370660802478
+    second: Blood splat 2_72
+  - first:
+      213: -7216389260404651505
+    second: Blood splat 2_73
+  - first:
+      213: 242515817789218478
+    second: Blood splat 2_74
+  - first:
+      213: -8475786173643864763
+    second: Blood splat 2_75
+  - first:
+      213: 6164422714252534886
+    second: Blood splat 2_76
+  - first:
+      213: -5379364617263846010
+    second: Blood splat 2_77
+  - first:
+      213: 8397610963335915799
+    second: Blood splat 2_78
+  - first:
+      213: 5967610777751716393
+    second: Blood splat 2_79
+  - first:
+      213: 6498293578539572292
+    second: Blood splat 2_80
+  - first:
+      213: -3852650371493473145
+    second: Blood splat 2_81
+  - first:
+      213: -8707884398411385259
+    second: Blood splat 2_82
+  - first:
+      213: -8424735138678705519
+    second: Blood splat 2_83
+  - first:
+      213: 2296194609984160947
+    second: Blood splat 2_84
+  - first:
+      213: 6104244618887635408
+    second: Blood splat 2_85
+  - first:
+      213: -4344890807883436101
+    second: Blood splat 2_86
+  - first:
+      213: -1367496039587585734
+    second: Blood splat 2_87
+  - first:
+      213: 6234647419682056464
+    second: Blood splat 2_88
+  - first:
+      213: -7803514533960817756
+    second: Blood splat 2_89
+  - first:
+      213: 848130369434053939
+    second: Blood splat 2_90
+  - first:
+      213: -8646762728287768720
+    second: Blood splat 2_91
+  - first:
+      213: -2269381218311558259
+    second: Blood splat 2_92
+  - first:
+      213: -6241995180393862559
+    second: Blood splat 2_93
+  - first:
+      213: -3500487370942113055
+    second: Blood splat 2_94
+  - first:
+      213: -376241514103862145
+    second: Blood splat 2_95
+  - first:
+      213: -8992030309571681720
+    second: Blood splat 2_96
+  - first:
+      213: 4146644328657226814
+    second: Blood splat 2_97
+  - first:
+      213: 2159619567004983277
+    second: Blood splat 2_98
+  - first:
+      213: -5317747630293921729
+    second: Blood splat 2_99
+  - first:
+      213: 4781044244709938945
+    second: Blood splat 2_100
+  - first:
+      213: 5041660938927848411
+    second: Blood splat 2_101
+  - first:
+      213: 6631381125662572769
+    second: Blood splat 2_102
+  - first:
+      213: 4124812328604784162
+    second: Blood splat 2_103
+  - first:
+      213: -143095212952273485
+    second: Blood splat 2_104
+  - first:
+      213: 7069580258266846398
+    second: Blood splat 2_105
+  - first:
+      213: 7645625643100390288
+    second: Blood splat 2_106
+  - first:
+      213: 1848438113687742107
+    second: Blood splat 2_107
+  - first:
+      213: -8669358180742174450
+    second: Blood splat 2_108
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blood splat 2_0
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 537
+        width: 44
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc182536a77e6a20800000000000000
+      internalID: 3057512752771243208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_1
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 548
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357a981246b9b14f0800000000000000
+      internalID: -856920449722243245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_2
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 546
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ccd7da09a84b4c0800000000000000
+      internalID: -4272637792477131623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_3
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 509
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04fe18fb02e59210800000000000000
+      internalID: 1339225005247886350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_4
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 508
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a36e01f8fa2c2d0800000000000000
+      internalID: -3259850151264110071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_5
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 510
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b8e645cf8dc1720800000000000000
+      internalID: 2818366045086976926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_6
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 515
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640aa1d206189b150800000000000000
+      internalID: 5888880237837197382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_7
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 504
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225e4d5395c36b610800000000000000
+      internalID: 1636561868448654626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_8
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 505
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51db802f17f640aa0800000000000000
+      internalID: -6195704652172313323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_9
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 470
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed305c8409a61800800000000000000
+      internalID: 582839038790090208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_10
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 503
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69be2689862f4150800000000000000
+      internalID: 5858944012335888746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_11
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 500
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a73e57ae00f7ef0800000000000000
+      internalID: -108366859033413103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_12
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 497
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f689d13c43f2340800000000000000
+      internalID: 4841146137066368826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_13
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 485
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1687f43cb5596aae0800000000000000
+      internalID: -1538378001349117855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_14
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 490
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06afb3bd44925d0d0800000000000000
+      internalID: -3398764968068515232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_15
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 487
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc02bdf389a259660800000000000000
+      internalID: 7391861196793258191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_16
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 493
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abf80440721c2650800000000000000
+      internalID: 6209358259624147872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_17
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 474
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dad16ddd69f68ee0800000000000000
+      internalID: -1259044795542545704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_18
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 467
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82616cc2f6b1cfa40800000000000000
+      internalID: 5403223817244251688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_19
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 480
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cfdbae569e50ce20800000000000000
+      internalID: 3368796521199558598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_20
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 161
+        width: 536
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6277928a5a65050800000000000000
+      internalID: 5788996512700114643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_21
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 466
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f4ec187b6062e60800000000000000
+      internalID: 7937038778513641312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_22
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 463
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1471c329ae5d3630800000000000000
+      internalID: 3908384132169823262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 469
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74cc6b6bc6d4478d0800000000000000
+      internalID: -2849567534901441465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_24
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 465
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2dfd17d3e2960a0800000000000000
+      internalID: -6887923313648086289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_25
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 463
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e54cb973b605460800000000000000
+      internalID: 7228395288510357049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_26
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 466
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bfd3745d44a32860800000000000000
+      internalID: 7504022056165695412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_27
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 458
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92aa976701212ed10800000000000000
+      internalID: 2153303433752980009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_28
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 461
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43de7848e7e344f0800000000000000
+      internalID: -845577320180821170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_29
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 460
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9a4c858c530ffd0800000000000000
+      internalID: -2310287474242049579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_30
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 453
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502d223b116880a70800000000000000
+      internalID: 8793425683018863109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_31
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 450
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c585571097a02af0800000000000000
+      internalID: -423154127664216634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_32
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 448
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a09517a8a2be9ac0800000000000000
+      internalID: -3846440594300366682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_33
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 443
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753ad6b5f682d4ce0800000000000000
+      internalID: -1419433848811445417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_34
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 447
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8905759d8732831e0800000000000000
+      internalID: -2217983814530543464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_35
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 452
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30adb6134597aae80800000000000000
+      internalID: -8166581571769607677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_36
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 443
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cdd5ab650ff1bf10800000000000000
+      internalID: 2283886884799503814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_37
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 419
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78b3e00e02061fc0800000000000000
+      internalID: -3524627399203112838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_38
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 413
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da321dde9e5723a0800000000000000
+      internalID: -6690274685028779311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_39
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 427
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02513d3267b1f6af0800000000000000
+      internalID: -401071647591557856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_40
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 417
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a55edae4377f9a70800000000000000
+      internalID: 8835912063086646691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_41
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 405
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77d28ec1f9616340800000000000000
+      internalID: 4855278360554821498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_42
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 400
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8f71a1dbb31bef0800000000000000
+      internalID: -94228433825433358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_43
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 408
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0522f994151cd8040800000000000000
+      internalID: 4651586545015267920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_44
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 391
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa91b462c067d1b60800000000000000
+      internalID: 7718455130937039279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_45
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 380
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f23d9f70ec6ab50800000000000000
+      internalID: 6604192437236871010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_46
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 368
+        width: 63
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c63a76ae2ca67f0800000000000000
+      internalID: -618467686793122743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_47
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 373
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b83dfe0dc99e660800000000000000
+      internalID: 7415630682632981281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_48
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 377
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b975737e1193eb0800000000000000
+      internalID: -4739737448067130594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_49
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 370
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57139a9a119fda370800000000000000
+      internalID: 8335592339588854133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_50
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 351
+        width: 65
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9264804502d2f30800000000000000
+      internalID: 4552330343629597126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_51
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 357
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64fdd74446a7ede0800000000000000
+      internalID: -1303890754906753938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_52
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 352
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299233c508b5ab360800000000000000
+      internalID: 7186156762283846034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_53
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 365
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54cdf4f8c70416da0800000000000000
+      internalID: -5953406328682587067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_54
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 365
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd0f29cbf1d3c4c0800000000000000
+      internalID: -4268337142474797623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_55
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 346
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dde4c989d654c620800000000000000
+      internalID: 2793453161195826644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_56
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 350
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8904e02c66f7050800000000000000
+      internalID: 5800467828725291254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_57
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 350
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90554b06d5c1fc00800000000000000
+      internalID: 932744120945168538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_58
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 347
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b39f073b83b1aaf0800000000000000
+      internalID: -386830682471558221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_59
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 336
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9e4b2f9426ec150800000000000000
+      internalID: 5894757032018635193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_60
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 341
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c3bb477c9f8a9f0800000000000000
+      internalID: -456840727125869497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_61
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 311
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979b749abf0247350800000000000000
+      internalID: 6013467667695384953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_62
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 319
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06acde87813cf280800000000000000
+      internalID: -9008270696360663540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_63
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 316
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aedb491f6333c3480800000000000000
+      internalID: -8918196851026117142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_64
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 311
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde2d4da11705a720800000000000000
+      internalID: 2856697311139802843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_65
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 317
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ea3f985dbf7ba60800000000000000
+      internalID: 7689891783319465502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_66
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 287
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce0888a925c25d30800000000000000
+      internalID: 4418810967115697861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_67
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 298
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90bef2b7e8c6aa970800000000000000
+      internalID: 8766938983837985545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_68
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 274
+        width: 73
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dceb3ee8419b410e0800000000000000
+      internalID: -2300010011731706163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_69
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 298
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac72132c25707d7e0800000000000000
+      internalID: -1740914678928693302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_70
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 281
+        width: 66
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22afbb4f5c9f8d5b0800000000000000
+      internalID: -5343246329265259998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_71
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 268
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1895b23331ae91d80800000000000000
+      internalID: -8279329071760189055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_72
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 276
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2502f527c54cf7ff0800000000000000
+      internalID: -36094370660802478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_73
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 258
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a03a4a33c3adb90800000000000000
+      internalID: -7216389260404651505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_74
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 262
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae5db3f9d69d5300800000000000000
+      internalID: 242515817789218478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_75
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 230
+        width: 82
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5454ac7b165ff5a80800000000000000
+      internalID: -8475786173643864763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_76
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 225
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6642f505ccd6c8550800000000000000
+      internalID: 6164422714252534886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_77
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 197
+        width: 94
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68deea6b168a855b0800000000000000
+      internalID: -5379364617263846010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_78
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 225
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719209fbdae4a8470800000000000000
+      internalID: 8397610963335915799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_79
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 214
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9220fa5726631d250800000000000000
+      internalID: 5967610777751716393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_80
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 218
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c9d0b84939e2a50800000000000000
+      internalID: 6498293578539572292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_81
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 206
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784da5b36e2a88ac0800000000000000
+      internalID: -3852650371493473145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_82
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 203
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556f587a641672780800000000000000
+      internalID: -8707884398411385259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_83
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 180
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192fd4c0704551b80800000000000000
+      internalID: -8424735138678705519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_84
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 189
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4c54ff4d8bddf10800000000000000
+      internalID: 2296194609984160947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_85
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 146
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d123e2a322a6b450800000000000000
+      internalID: 6104244618887635408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_86
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 153
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf6f3894d8d3b3c0800000000000000
+      internalID: -4344890807883436101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_87
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 149
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31e0a8e89da50de0800000000000000
+      internalID: -1367496039587585734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_88
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 148
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01964fdabcae58650800000000000000
+      internalID: 6234647419682056464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_89
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 151
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3eaab40e854b390800000000000000
+      internalID: -7803514533960817756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_90
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 149
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d6651d31a25cb00800000000000000
+      internalID: 848130369434053939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_91
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 158
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fe1537c17800880800000000000000
+      internalID: -8646762728287768720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_92
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 140
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ba89e3ec98180e0800000000000000
+      internalID: -2269381218311558259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_93
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 150
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a6ce6747aff59a0800000000000000
+      internalID: -6241995180393862559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_94
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 155
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea11425845cb6fc0800000000000000
+      internalID: -3500487370942113055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_95
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 152
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c851a165257caf0800000000000000
+      internalID: -376241514103862145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_96
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 134
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8422f644314e53380800000000000000
+      internalID: -8992030309571681720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_97
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 132
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c808b0c07db8930800000000000000
+      internalID: 4146644328657226814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_98
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 140
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def9055dd8288fd10800000000000000
+      internalID: 2159619567004983277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_99
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 131
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30d72374b09336b0800000000000000
+      internalID: -5317747630293921729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_100
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 138
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1079c55d86ea95240800000000000000
+      internalID: 4781044244709938945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_101
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 113
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbb1ce79e397f540800000000000000
+      internalID: 5041660938927848411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_102
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 75
+        width: 84
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0095dcff5670c50800000000000000
+      internalID: 6631381125662572769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_103
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 117
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226d3ab65f64e3930800000000000000
+      internalID: 4124812328604784162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_104
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 24
+        width: 74
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdbbe679af930ef0800000000000000
+      internalID: -143095212952273485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_105
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 56
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb41c15e9c13c1260800000000000000
+      internalID: 7069580258266846398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_106
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 61
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093cd9e9308ba1a60800000000000000
+      internalID: 7645625643100390288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_107
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 50
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96a6a3cba8f6a910800000000000000
+      internalID: 1848438113687742107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood splat 2_108
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 64
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e096c36baa040b780800000000000000
+      internalID: -8669358180742174450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Blood splat 2_0: 3057512752771243208
+      Blood splat 2_1: -856920449722243245
+      Blood splat 2_10: 5858944012335888746
+      Blood splat 2_100: 4781044244709938945
+      Blood splat 2_101: 5041660938927848411
+      Blood splat 2_102: 6631381125662572769
+      Blood splat 2_103: 4124812328604784162
+      Blood splat 2_104: -143095212952273485
+      Blood splat 2_105: 7069580258266846398
+      Blood splat 2_106: 7645625643100390288
+      Blood splat 2_107: 1848438113687742107
+      Blood splat 2_108: -8669358180742174450
+      Blood splat 2_11: -108366859033413103
+      Blood splat 2_12: 4841146137066368826
+      Blood splat 2_13: -1538378001349117855
+      Blood splat 2_14: -3398764968068515232
+      Blood splat 2_15: 7391861196793258191
+      Blood splat 2_16: 6209358259624147872
+      Blood splat 2_17: -1259044795542545704
+      Blood splat 2_18: 5403223817244251688
+      Blood splat 2_19: 3368796521199558598
+      Blood splat 2_2: -4272637792477131623
+      Blood splat 2_20: 5788996512700114643
+      Blood splat 2_21: 7937038778513641312
+      Blood splat 2_22: 3908384132169823262
+      Blood splat 2_23: -2849567534901441465
+      Blood splat 2_24: -6887923313648086289
+      Blood splat 2_25: 7228395288510357049
+      Blood splat 2_26: 7504022056165695412
+      Blood splat 2_27: 2153303433752980009
+      Blood splat 2_28: -845577320180821170
+      Blood splat 2_29: -2310287474242049579
+      Blood splat 2_3: 1339225005247886350
+      Blood splat 2_30: 8793425683018863109
+      Blood splat 2_31: -423154127664216634
+      Blood splat 2_32: -3846440594300366682
+      Blood splat 2_33: -1419433848811445417
+      Blood splat 2_34: -2217983814530543464
+      Blood splat 2_35: -8166581571769607677
+      Blood splat 2_36: 2283886884799503814
+      Blood splat 2_37: -3524627399203112838
+      Blood splat 2_38: -6690274685028779311
+      Blood splat 2_39: -401071647591557856
+      Blood splat 2_4: -3259850151264110071
+      Blood splat 2_40: 8835912063086646691
+      Blood splat 2_41: 4855278360554821498
+      Blood splat 2_42: -94228433825433358
+      Blood splat 2_43: 4651586545015267920
+      Blood splat 2_44: 7718455130937039279
+      Blood splat 2_45: 6604192437236871010
+      Blood splat 2_46: -618467686793122743
+      Blood splat 2_47: 7415630682632981281
+      Blood splat 2_48: -4739737448067130594
+      Blood splat 2_49: 8335592339588854133
+      Blood splat 2_5: 2818366045086976926
+      Blood splat 2_50: 4552330343629597126
+      Blood splat 2_51: -1303890754906753938
+      Blood splat 2_52: 7186156762283846034
+      Blood splat 2_53: -5953406328682587067
+      Blood splat 2_54: -4268337142474797623
+      Blood splat 2_55: 2793453161195826644
+      Blood splat 2_56: 5800467828725291254
+      Blood splat 2_57: 932744120945168538
+      Blood splat 2_58: -386830682471558221
+      Blood splat 2_59: 5894757032018635193
+      Blood splat 2_6: 5888880237837197382
+      Blood splat 2_60: -456840727125869497
+      Blood splat 2_61: 6013467667695384953
+      Blood splat 2_62: -9008270696360663540
+      Blood splat 2_63: -8918196851026117142
+      Blood splat 2_64: 2856697311139802843
+      Blood splat 2_65: 7689891783319465502
+      Blood splat 2_66: 4418810967115697861
+      Blood splat 2_67: 8766938983837985545
+      Blood splat 2_68: -2300010011731706163
+      Blood splat 2_69: -1740914678928693302
+      Blood splat 2_7: 1636561868448654626
+      Blood splat 2_70: -5343246329265259998
+      Blood splat 2_71: -8279329071760189055
+      Blood splat 2_72: -36094370660802478
+      Blood splat 2_73: -7216389260404651505
+      Blood splat 2_74: 242515817789218478
+      Blood splat 2_75: -8475786173643864763
+      Blood splat 2_76: 6164422714252534886
+      Blood splat 2_77: -5379364617263846010
+      Blood splat 2_78: 8397610963335915799
+      Blood splat 2_79: 5967610777751716393
+      Blood splat 2_8: -6195704652172313323
+      Blood splat 2_80: 6498293578539572292
+      Blood splat 2_81: -3852650371493473145
+      Blood splat 2_82: -8707884398411385259
+      Blood splat 2_83: -8424735138678705519
+      Blood splat 2_84: 2296194609984160947
+      Blood splat 2_85: 6104244618887635408
+      Blood splat 2_86: -4344890807883436101
+      Blood splat 2_87: -1367496039587585734
+      Blood splat 2_88: 6234647419682056464
+      Blood splat 2_89: -7803514533960817756
+      Blood splat 2_9: 582839038790090208
+      Blood splat 2_90: 848130369434053939
+      Blood splat 2_91: -8646762728287768720
+      Blood splat 2_92: -2269381218311558259
+      Blood splat 2_93: -6241995180393862559
+      Blood splat 2_94: -3500487370942113055
+      Blood splat 2_95: -376241514103862145
+      Blood splat 2_96: -8992030309571681720
+      Blood splat 2_97: 4146644328657226814
+      Blood splat 2_98: 2159619567004983277
+      Blood splat 2_99: -5317747630293921729
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

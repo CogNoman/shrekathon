@@ -19,4 +19,13 @@ public class bloodSplatScript : MonoBehaviour
     {
         transform.position = new Vector2(transform.position.x, transform.position.y - scrollSpeed * Time.deltaTime);
     }
+
+    // disappears when collides with bottom border
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag("BottomBorder"))
+        {
+            Destroy(gameObject);
+        }
+    }
 }
