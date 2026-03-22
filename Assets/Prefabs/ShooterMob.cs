@@ -23,6 +23,7 @@ public class ShooterMob : MonoBehaviour
         if (other.CompareTag("BottomBorder"))
         {
             Destroy(gameObject);
+            Debug.Log("shooter collided with bottom border");
         }
     }
     void Update()

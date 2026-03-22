@@ -18,12 +18,22 @@ public class mob : MonoBehaviour
         attackDamage = 0.75f;
         attackCooldown = 1;
         movementSpeed = player.baseMovementSpeed * 0.6f;
+        Debug.Log("mob is spawned");
     }
 
     // Update is called once per frame
     void Update()
     {
+        if (playerTransform == null)
+        {
+            PlayerScript player = FindAnyObjectByType<PlayerScript>();
+            if (player != null)
+            {
+                playerTransform = player.transform;
+            }
+            return;
 
+        }
         Vector2 direction = (playerTransform.position - transform.position).normalized;
 
         float distance = Vector2.Distance(playerTransform.position, transform.position);

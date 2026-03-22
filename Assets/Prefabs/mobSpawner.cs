@@ -16,8 +16,8 @@ public class mobSpawner : MonoBehaviour
 
     Vector2 GetRandomWallPosition()
     {
-        float minX = -8f, maxX = 8f;
-        float minY = -5f, maxY = 5f;
+        float minX = -7.22f, maxX = 1f;
+        float minY = -4f, maxY = 4.3f;
 
         int wall = Random.Range(0, 4); // 0 = left, 1 = right, 2 = bottom, 3 top
 
@@ -34,7 +34,7 @@ public class mobSpawner : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-
+        spawnCooldown = 3f;
     }
 
     // Update is called once per frame
