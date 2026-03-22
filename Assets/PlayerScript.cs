@@ -12,6 +12,8 @@ public class PlayerScript : MonoBehaviour
 
     public GameObject bloodSplat;
 
+    private Animator anim;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -20,6 +22,8 @@ public class PlayerScript : MonoBehaviour
         armored = false;
         baseMovementSpeed = 5f;
         movementSpeedModifier = 1f;
+
+        anim = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -71,6 +75,19 @@ public class PlayerScript : MonoBehaviour
 
         float moveX = Input.GetAxisRaw("Horizontal");
         float moveY = Input.GetAxisRaw("Vertical");
+        // change anim speed based on movement direction
+        if (moveY > 0.1f)
+        {
+            anim.SetFloat("animSpeed", 1.5f);
+        }
+        else if (moveY < -0.1f)
+        {
+            anim.SetFloat("animSpeed", 0.5f);
+        }
+        else
+        {
+            anim.SetFloat("animSpeed", 1.0f);
+        }
 
         // movement
         transform.Translate(new Vector2(moveX, moveY).normalized * movementSpeed * Time.deltaTime);
