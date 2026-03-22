@@ -10,6 +10,8 @@ public class PlayerScript : MonoBehaviour
     public bool alive;
     public bool enraged;
 
+    public GameObject bloodSplat;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -30,27 +32,31 @@ public class PlayerScript : MonoBehaviour
             spinCooldown -= Time.deltaTime;
         }
 
+
+        // When the player presses Space, and the spin cooldown is at 0 or less, it activates the spin attack, and sets cooldown to whatever it is
         if (Input.GetKeyDown(KeyCode.Space) && spinCooldown <= 0)
         {
-           // SpinAttack();
-            spinCooldown = 4f;
+            SpinAttack();
+            spinCooldown = 2f;
         }
 
-        // void SpinAttack()
-        // {
-        //     Collider2D[] hits = Physics2D.OverlapCircleAll(transform.position, attackRadius);
+        // This method is the one for the spin attack.
+        void SpinAttack()
+        {
+            Collider2D[] hits = Physics2D.OverlapCircleAll(transform.position, attackRadius);
 
-        //     foreach (Collider2D hits in hits)
-        //     {
-        //         if (hits.CompareTag("Enemy"))
-        //         {
-        //             // placeholder effect, should change texture. and make them immobile
-        //             // i stopped here, resume! also removes their hitbox so things can pass through.
-        //             // make sure that when they die, they have a chance to drop equipment!
-        //             hits.alive = false;
-        //         }
-        //     }
-        // }
+            foreach (Collider2D hit in hits)
+            {
+                if (hit.GetComponent<mob>() != null)
+                {
+                    // make sure that when they die, they have a chance to drop equipment!
+                    // add prefab for blood splatter
+                    Debug.Log("Entity has been hit");
+                    Instantiate(bloodSplat, hit.transform.position, Quaternion.identity);
+                    Destroy(hit.gameObject);
+                }
+            }
+        }
 
         if (armor <= 0)
         {
