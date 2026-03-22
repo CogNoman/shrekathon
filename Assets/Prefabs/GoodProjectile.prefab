@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 3299583082125900076}
   - component: {fileID: 546793696460975596}
   - component: {fileID: 3784287296376105819}
+  - component: {fileID: 8041138155126256847}
   m_Layer: 0
   m_Name: GoodProjectile
   m_TagString: GoodProjectile
@@ -169,3 +170,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ee74bdb4f230417c9999156a185494e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+--- !u!114 &8041138155126256847
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7939840846956231431}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93d990398a9db7d4c8ae3630114948ea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::TimedDestruction
+  destructionDelay: 5

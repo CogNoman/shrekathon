@@ -7,6 +7,7 @@ public class InventoryManager : MonoBehaviour
 
     public List<InventoryItemData> allPossibleItems = new List<InventoryItemData>();
     public List<InventoryItemData> collectedItems = new List<InventoryItemData>();
+    public List<InventoryItemData> equippedItems = new List<InventoryItemData>();
 
     void Awake()
     {
