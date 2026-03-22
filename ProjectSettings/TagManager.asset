@@ -43,11 +43,17 @@ TagManager:
   - name: Background
     uniqueID: 3790402979
     locked: 0
-  - name: AdditiveFrame
+  - name: GreenWallpaper
     uniqueID: 3667298495
+    locked: 0
+  - name: Mirror
+    uniqueID: 593635581
     locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Scroll
+    uniqueID: 3730261081
     locked: 0
   - name: Foreground
     uniqueID: 1478589779
