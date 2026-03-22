@@ -12,5 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92081ebaa446ab84fbe57d51feb789dd, type: 3}
   m_Name: wig2
   m_EditorClassIdentifier: Assembly-CSharp::InventoryItemData
-  itemName: 
-  icon: {fileID: 0}
+  itemName: wig2
+  inventoryIcon: {fileID: -1911424328069057932, guid: 25eefe011bc870444857773f773244bb, type: 3}
+  projectileIcon: {fileID: 7062469444080745539, guid: d427c36a1350e1e4491e1564f363367f, type: 3}

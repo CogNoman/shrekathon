@@ -5,5 +5,7 @@ using UnityEngine;
 public class InventoryItemData : ScriptableObject
 {
     public string itemName;
-    public Sprite icon;
+    public Sprite inventoryIcon;
+
+    public Sprite projectileIcon;
 }
