@@ -15,7 +15,7 @@ public class SwitchToEndingScript : MonoBehaviour
     void Update()
     {
         gameTime += Time.deltaTime;
-        if (gameTime >= 120f)
+        if (gameTime >= 60f)
         {
             // Load the ending scene
             if (InventoryManager.Instance.collectedItems.Count < 24)

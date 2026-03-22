@@ -424,7 +424,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 593635581
   m_SortingLayer: -1
-  m_SortingOrder: 0
+  m_SortingOrder: -1
   m_MaskInteraction: 0
   m_Sprite: {fileID: -5627159048762843134, guid: f8e92d4cb71c2e243bf82cc4f53d0e0b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -1786,6 +1786,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2097056656}
   - component: {fileID: 2097056655}
+  - component: {fileID: 2097056657}
   m_Layer: 0
   m_Name: SceneLoader
   m_TagString: Untagged
@@ -1820,6 +1821,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2097056657
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2097056654}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eab7a2b825a97cb4ea99b658b9dd59a9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SwitchToEndingScript
 --- !u!1 &2108366075
 GameObject:
   m_ObjectHideFlags: 0
